@@ -1,1 +1,4 @@
 ftodb-venv/
+.env
+FiletoDB.code-workspace
+.DS_Store
